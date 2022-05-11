@@ -1,0 +1,15 @@
+{
+  "name": "curvature",
+  "collaborators": [
+    "nailgafurov"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "curvature_bg.wasm",
+    "curvature.js",
+    "curvature.d.ts"
+  ],
+  "module": "curvature.js",
+  "types": "curvature.d.ts",
+  "sideEffects": false
+}
